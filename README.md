@@ -10,6 +10,6 @@ Trabalhei com logística, produção, finanças e área fiscal, sempre utilizand
 
 💼 Aplico meus aprendizados para atender demandas na minha rotina de empreendedor utilizando a biblioteca Scrapy para raspagem de dados no Mercado Livre, para obtenção de informações que a API não disponibiliza, estudo de documentação e acesso de API's do Mercado Livre, Amazon, Bot Conversa.<br>
 
-🏭 Meu projeto atual é na extração de base de clientes do sistema de gestão Trinks em empresa do setor de estética, identificar e listar clientes em churn,<br> desenvolvimento de rotinas de acesso e manipulação de API do BotConversa com Whatsapp para enviar mensagens personalizadas para esses clientes.
+🏭 Meu projeto atual é na extração de base de clientes do sistema de gestão Trinks em empresa do setor de estética, identificar e listar clientes em churn, desenvolvimento de rotinas de acesso e manipulação de API do BotConversa com Whatsapp para enviar mensagens personalizadas para esses clientes.
 
 
