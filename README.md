@@ -1,6 +1,6 @@
 ### Olá, meu nome é Luiz 👋
 
-👨‍💼 Analista de Sistemas por formação, empreendedor em empresa familiar. 21 anos de experiência em tecnologia da informação.<br>
+👨‍💼 Analista de Sistemas por formação, empreendedor em empresa familiar, 21 anos de experiência em tecnologia da informação.<br>
 
 Capaz de atuar com habilidade na criação de consultas, views e mapeamento utilizando SQL para entendimento, análise, diagnóstico e previsão de dados oriundos de sistemas legados, ERP, planilhas, bancos de dados<br>
 
