@@ -8,6 +8,8 @@
 
 🏭 Meu projeto atual é na extração de base de clientes do sistema de gestão Trinks em empresa do setor de estética, identificar e listar clientes em churn, desenvolvimento de rotinas de acesso e manipulação de API do BotConversa com Whatsapp para enviar mensagens personalizadas para esses clientes.
 
+🖥️ Atualmente mais focado em:
+
 <div display="inline">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
