@@ -5,7 +5,7 @@
 
 💼 Atualmente, estou trabalhando com python para obter dados da API do Mercado Livre para autenticação, atualização automática de token e métodos para montar relatórios como anúncios criados nos últimos 30, 60 e 90 dias que estão vendendo bem e são produtos em potencial a serem trabalhados.
 
-🏭 Também estou utilizando o Python em demanda que visa a extração de base de clientes do sistema de gestão Trinks em empresa do setor de estética, identificar e listar clientes em churn, desenvolvimento de rotinas de acesso e manipulação de API do BotConversa para acionar fluxos de mensagens via Whatsapp para clientes que atendem determinadas condições como cliente que estão em churn
+🏭 Também estou utilizando o Python em demanda que visa a extração de base de clientes do sistema de gestão Trinks em empresa do setor de estética, para identificar e listar clientes em churn, desenvolver rotinas de acesso e manipulação de API do BotConversa para acionar fluxos de mensagens via Whatsapp para clientes que atendem determinadas condições como cliente que estão em churn
 
 🖥️ Atualmente mais focado em:
 
