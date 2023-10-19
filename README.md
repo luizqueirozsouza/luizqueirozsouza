@@ -1,12 +1,11 @@
 ### Olá, meu nome é Luiz 👋
 
-👨‍💼 Analista de Sistemas por formação, 21 anos de experiência em tecnologia da informação. Trabalhei com logística, produção, finanças e área fiscal, sempre utilizando a tecnologia para auxiliar no diagnóstico e na resolução de problemas, bem como na otimização de processos.<br>
+👨‍💼 Analista de sistemas em transição para dados, estou dedicando meu tempo ao Python e suas bibliotecas para obter, analisar e interpretar dados.  Atividades onde eu costumava usar 
+ SQL.
 
-🚀 Meu foco é na especialização na linguagem Python para 📊 Análise de Dados e avançar para 📈 Ciência de Dados.<br>
+💼 Atualmente, estou trabalhando com python para obter dados da API do Mercado Livre para autenticação, atualização automática de token e métodos para montar relatórios como anúncios criados nos últimos 30, 60 e 90 dias que estão vendendo bem e são produtos em potencial a serem trabalhados.
 
-💼 Aplico meus aprendizados para atender demandas na minha rotina de empreendedor utilizando a biblioteca Scrapy para raspagem de dados no Mercado Livre, para obtenção de informações que a API não disponibiliza, estudo de documentação e acesso de API's do Mercado Livre, Amazon, Bot Conversa.<br>
-
-🏭 Meu projeto atual é na extração de base de clientes do sistema de gestão Trinks em empresa do setor de estética, identificar e listar clientes em churn, desenvolvimento de rotinas de acesso e manipulação de API do BotConversa com Whatsapp para enviar mensagens personalizadas para esses clientes.
+🏭 Também estou utilizando o Python em demanda que visa a extração de base de clientes do sistema de gestão Trinks em empresa do setor de estética, identificar e listar clientes em churn, desenvolvimento de rotinas de acesso e manipulação de API do BotConversa para acionar fluxos de mensagens via Whatsapp para clientes que atendem determinadas condições como cliente que estão em churn
 
 🖥️ Atualmente mais focado em:
 
