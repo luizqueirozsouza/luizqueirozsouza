@@ -1,24 +1,41 @@
+
+### "Na era dos dados, quem controla a informação, controla o futuro."
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizqueirozsouza//)](https://www.linkedin.com/in/luizqueirozsouza/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@luizqueirozsouza)](https://medium.com/@luizqueirozsouza)
+[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/luizqueirozsouza)](https://www.kaggle.com/luizqueirozsouza)
+
 ### Olá, meu nome é Luiz 👋
 
 👨‍💼 Sou analista de sistemas, com 21 anos de experiência em tecnologia da informação. Capaz de atuar com
 habilidade na criação de consultas, views e mapeamento utilizando SQL para entendimento, análise, diagnóstico e previsão de dados oriundos de sistemas legados, ERP, planilhas, bancos de dados.
 
-🖥️ Atualmente mais focado em:
+#### Uso Diário:
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+  
+#### Análise de Dados
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+ ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
 
-<div display="inline">
-&nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-&nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-&nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-          
-</div>  
+#### Ciência de Dados
+ ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+ 
+####  Também conheço
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
 
-### Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/luizqueirozsouza/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://medium.com/@luizqueirozsouza">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.youtube.com/c/LuizSouzasp">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>&nbsp;
+<b> :chart_with_upwards_trend: Estatísticas</b>:
+
+<a href="https://github.com/luizqueirozsouza">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luizqueirozsouza&show_icons=true&theme=dark&include_commits=true"/>
+</a>
+
+<a href="https://github.com/karinnecristina">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizqueirozsouza&layout=compact&langs_count=8&theme=dark"/>
+</a>
