@@ -1,11 +1,7 @@
 ### Olá, meu nome é Luiz 👋
 
-👨‍💼 Analista de sistemas em transição para dados, estou dedicando meu tempo ao Python e suas bibliotecas para obter, analisar e interpretar dados.  Atividades onde eu costumava usar 
- SQL.
-
-💼 Atualmente, estou trabalhando com python para obter dados da API do Mercado Livre para autenticação, atualização automática de token e métodos para montar relatórios como anúncios criados nos últimos 30, 60 e 90 dias que estão vendendo bem e são produtos em potencial a serem trabalhados.
-
-🏭 Também estou utilizando o Python em demanda que visa a extração de base de clientes do sistema de gestão Trinks em empresa do setor de estética, para identificar e listar clientes em churn, desenvolver rotinas de acesso e manipulação de API do BotConversa para acionar fluxos de mensagens via Whatsapp para clientes que atendem determinadas condições como cliente que estão em churn
+👨‍💼 Sou analista de sistemas, com 21 anos de experiência em tecnologia da informação. Capaz de atuar com
+habilidade na criação de consultas, views e mapeamento utilizando SQL para entendimento, análise, diagnóstico e previsão de dados oriundos de sistemas legados, ERP, planilhas, bancos de dados.
 
 🖥️ Atualmente mais focado em:
 
