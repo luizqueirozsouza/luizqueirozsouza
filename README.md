@@ -9,6 +9,7 @@
 👨‍💼 Sou analista de sistemas, com 21 anos de experiência em tecnologia da informação. Capaz de atuar com
 habilidade na criação de consultas, views e mapeamento utilizando SQL para entendimento, análise, diagnóstico e previsão de dados oriundos de sistemas legados, ERP, planilhas, bancos de dados.
 
+## 🚀 **Linguagens e Ferramentas:**
 #### Uso Diário:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
