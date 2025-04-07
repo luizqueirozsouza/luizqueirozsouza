@@ -1,8 +1,6 @@
 
-### "Na era dos dados, quem controla a informação, controla o futuro."
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizqueirozsouza//)](https://www.linkedin.com/in/luizqueirozsouza/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@luizqueirozsouza)](https://medium.com/@luizqueirozsouza)
-[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/luizqueirozsouza)](https://www.kaggle.com/luizqueirozsouza)
 
 ### Olá, meu nome é Luiz 👋
 
