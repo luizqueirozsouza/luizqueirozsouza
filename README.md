@@ -6,8 +6,13 @@
 
 ### Olá, meu nome é Luiz 👋
 
-👨‍💼 Sou analista de sistemas, com 21 anos de experiência em tecnologia da informação. Capaz de atuar com
-habilidade na criação de consultas, views e mapeamento utilizando SQL para entendimento, análise, diagnóstico e previsão de dados oriundos de sistemas legados, ERP, planilhas, bancos de dados.
+👨‍💼 Sou Analista de Automação de Processos com experiência em n8n, Inteligência Artificial, Python e SQL. 
+
+Especializado na integração da API Trinks para o setor de estética e beleza, desenvolvi soluções que automatizam lembretes de agendamentos, follow-ups para procedimentos recorrentes, reengajamento de clientes em risco de churn, comunicações direcionadas para clientes de alto valor e mensagens pós-procedimento, resultando em maior eficiência operacional e satisfação dos clientes.
+
+**Ferramentas e Tecnologias**: n8n, Python, Pandas, API REST, BotConversa, WhatsApp Business API, VPS, SQL
+
+**IA e Automação**: Criação de agentes inteligentes, fluxos automatizados, integração entre sistemas, automações com IA generativa
 
 ## 🚀 **Linguagens e Ferramentas:**
 #### Uso Diário:
@@ -23,16 +28,8 @@ habilidade na criação de consultas, views e mapeamento utilizando SQL para ent
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
  ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
-
-#### Ciência de Dados
- ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
- 
-####  Estou aprendendo
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <b> :chart_with_upwards_trend: Estatísticas</b>:
 
