@@ -1,48 +1,76 @@
-Desenvolvimento de soluções voltadas para engenharia de dados, automação inteligente e inteligência artificial, com foco na integração entre sistemas, construção de pipelines, agentes de IA e otimização de processos de negócio.
+```markdown
+# 👋 Luiz Henrique Queiroz Souza
 
-🚀 Especialidades
-📊 Engenharia de Dados
-🤖 Agentes de IA e IA Generativa
-🔄 Automação de Processos com n8n
-🔌 Integração de APIs e Sistemas
-🏗️ ETL/ELT e Pipelines de Dados
-🧠 Model Context Protocol (MCP)
-📈 Dashboards, KPIs e Storytelling com Dados
-🛠️ Tecnologias
-Linguagens
-🐍 Python
-🗄️ SQL
-Dados
-🐘 PostgreSQL
-🦆 DuckDB
-⚡ PySpark
-📦 Dask
-IA e Automação
-🔗 n8n
-🧩 Agno
-🦜 LangChain
-🤖 OpenAI APIs
-🔄 MCP (Model Context Protocol)
-Infraestrutura
-🐳 Docker
-🌱 Git & GitHub
-🌐 APIs REST
-📂 Áreas de atuação
-Desenvolvimento de pipelines de dados
-Construção de agentes de IA conectados a ferramentas e bancos de dados
-Automação de processos empresariais
-Integração entre aplicações e serviços via APIs
-Dashboards executivos e análise de indicadores
-Soluções de dados para apoio à tomada de decisão
-🌱 Estudos contínuos
-Arquiteturas para agentes de IA em produção
-Engenharia de Contexto (Context Engineering)
-Sistemas baseados em MCP
-Engenharia de Dados moderna
-Arquiteturas distribuídas e microsserviços
-🎯 Objetivo deste GitHub
+## Data Engineer | AI Automation Engineer | Python Developer
 
-Compartilhar projetos práticos, experimentos e soluções relacionados a engenharia de dados, automação, inteligência artificial e desenvolvimento de aplicações que gerem impacto operacional e escalabilidade.
+Desenvolvo soluções de engenharia de dados, automação inteligente e inteligência artificial, com foco na construção de pipelines, integração entre sistemas, agentes de IA e otimização de processos de negócio.
 
-📫 Contato
-💼 LinkedIn: https://www.linkedin.com/in/luizqueirozsouza/
+---
+
+## 🚀 Especialidades
+
+- 📊 Engenharia de Dados
+- 🤖 Agentes de IA e IA Generativa
+- 🔄 Automação de Processos com n8n
+- 🔌 Integração de APIs
+- 🏗️ ETL/ELT e Pipelines de Dados
+- 🧠 Model Context Protocol (MCP)
+- 📈 Dashboards e Storytelling com Dados
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Linguagens
+- 🐍 Python
+- 🗄️ SQL
+
+### Dados
+- 🐘 PostgreSQL
+- 🦆 DuckDB
+- ⚡ PySpark
+- 📦 Dask
+
+### IA e Automação
+- 🔗 n8n
+- 🧩 Agno
+- 🦜 LangChain
+- 🤖 OpenAI
+- 🧠 MCP (Model Context Protocol)
+
+### Infraestrutura
+- 🐳 Docker
+- 🌱 Git & GitHub
+- 🔌 APIs REST
+
+---
+
+## 📂 O que você encontrará neste GitHub
+
+- 🤖 Agentes de IA e automações inteligentes
+- 🔄 Pipelines ETL/ELT em Python
+- 📊 Dashboards e indicadores de negócio
+- 🔗 Integrações com APIs e bancos de dados
+- ⚙️ Workflows utilizando n8n
+- 🚀 Estudos e provas de conceito sobre IA aplicada e engenharia de dados
+
+---
+
+## 🌱 Atualmente aprofundando conhecimentos em
+
+- Arquiteturas para Agentes de IA
+- Context Engineering
+- Model Context Protocol (MCP)
+- Engenharia de Dados Moderna
+- Arquiteturas distribuídas e microsserviços
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/luizqueirozsouza
+
+---
+
+> *"Code. Automate. Scale."*
+```
