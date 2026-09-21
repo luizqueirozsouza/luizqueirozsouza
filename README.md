@@ -1,111 +1,88 @@
 # 👋 Luiz Henrique Queiroz Souza
 
-## 🔷 AI & Data Automation Engineer | Databricks · Spark · Airflow · Python · Minio
+## 🔷 AI & Data Automation Engineer | Databricks · Spark · Airflow · Python · MinIO
 
-Engenheiro de Dados e Automação com mais de 20 anos de experiência em tecnologia, atuando na construção, sustentação e evolução de **pipelines escaláveis**, **sistemas de retenção** e **arquiteturas ETL/ELT** orientadas a resultado.
+Construo soluções que transformam dados, automações e inteligência artificial em produtos úteis para o negócio.
 
-Especialista em transformar processos manuais complexos em soluções automatizadas — integrando múltiplas fontes de dados, desenvolvendo agentes de IA e gerando impacto mensurável em áreas de negócio.
+Meu foco está em **engenharia de dados**, **automação de processos**, **agentes de IA** e arquiteturas que reduzem trabalho manual e aumentam a confiabilidade das operações.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizqueirozsouza)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizqueirozsouza)
 
 ---
 
 ## 🚀 Especialidades
 
-- 🏗️ Engenharia de Dados — Pipelines ETL/ELT com Spark, Airflow e Python
-- 🤖 Agentes de IA e IA Generativa — LLMs, MCP, Agno, LangChain
-- 🔄 Automação Inteligente de Processos — n8n, Webhooks, APIs REST
-- 📊 Relatórios Gerenciais e Storytelling com Dados
-- 🎯 Retenção de Clientes e Detecção de Churn via dados comportamentais
-- 🔌 Integração com APIs e bancos relacionais/distribuídos
-- ☁️ Infraestrutura de Dados com MinIO, Docker e VPS
+- 🏗️ Engenharia de Dados — pipelines ETL/ELT com Python, Spark e Airflow
+- 🤖 IA aplicada — LLMs, agentes, MCP, Agno e LangChain
+- 🔄 Automação inteligente — n8n, webhooks, APIs REST e integrações
+- 📊 Dados para negócio — indicadores, retenção, churn e storytelling
+- 🔌 Integração de sistemas — APIs, bancos relacionais e serviços distribuídos
+- ☁️ Infraestrutura — Docker, MinIO, VPS e ambientes de produção
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-### Linguagens & Consulta
+### Linguagens & Dados
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-### Engenharia de Dados
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 
-### Bancos de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
 ### IA & Automação
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-### Infraestrutura
+### Infraestrutura & Bancos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 💼 Experiência em Destaque
+## 📂 Repositórios mais ativos
 
-### 🔹 Analista de Governança III — meutudo. *(abr/2026 – atual)*
-Atuação remota em governança de dados em ambiente corporativo de serviços financeiros.
+Projetos ordenados pela quantidade de commits no branch principal.
 
-### 🔹 Analista de Inteligência de Negócios — DESKTOP *(jul/2025 – abr/2026)*
-- Migrei Relatório Crítico de Retenção de scripts SQL manuais para **arquitetura ETL/ELT escalável** com Python, Spark e Airflow, eliminando risco operacional e aumentando confiabilidade dos dados.
-- Sustentação e evolução do ecossistema corporativo de dados (Data Warehouse, Spark, Airflow), garantindo SLA, governança e confiabilidade analítica.
+| Projeto | Commits | Descrição |
+|---|---:|---|
+| [**leilao_insights**](https://github.com/luizqueirozsouza/leilao_insights) | **96** | Plataforma de inteligência imobiliária para acompanhar imóveis de leilão da Caixa, com frontend, API Django, pipeline de ingestão e rotinas de dados. |
+| [**clipping_video**](https://github.com/luizqueirozsouza/clipping_video) | **9** | Pipeline com IA para transformar vídeos longos em cortes para Shorts, TikTok e Reels, com enquadramento facial, legendas dinâmicas e integração com MinIO. |
+| [**meuchatgpt**](https://github.com/luizqueirozsouza/meuchatgpt) | **8** | Aplicação de chat baseada em Streamlit para experimentar interfaces conversacionais com IA. |
 
-### 🔹 Analista de Automação — Espaço Sobrancelha Desenhada *(ago/2016 – jul/2025 · 9 anos)*
-- Automação de follow-up, pós-venda e retenção com **n8n + Evolution API + PostgreSQL**, reduzindo falhas operacionais em até **70%**.
-- Modelagem SQL para **detecção de churn** com ações automatizadas de retenção.
-- Relatórios gerenciais em tempo real para tomada de decisão com dados de agendamento e conversão.
-
-### 🔹 Consultor Funcional Fiscal — CSC (Computer Sciences Corporation) *(jul/2012 – ago/2016)*
-- Apoio à recuperação de créditos de ICMS para **General Motors** e **Volkswagen** (dezenas de milhões de reais/mês).
-- Tradução de requisitos fiscais complexos em especificações técnicas e modelagem SQL para auditorias.
+> Os números de commits refletem o histórico público dos branches principais consultado em setembro de 2026.
 
 ---
 
-## 📂 O que você encontrará aqui
+## 📊 GitHub em números
 
-| Projeto | Descrição |
-|---|---|
-| 🤖 Agentes de IA | Agentes com Agno, LangChain, MCP e OpenAI |
-| 🔄 Pipelines ETL/ELT | Spark, Airflow, Python — dados em escala |
-| ⚙️ Automações n8n | Workflows com APIs, WhatsApp, bancos de dados |
-| 📊 Dashboards | Indicadores e relatórios de negócio |
-| 🧪 Provas de Conceito | IA aplicada, Context Engineering, MCP |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luizqueirozsouza&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizqueirozsouza&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
-## 🎓 Certificações Recentes
+## 🌱 Explorando atualmente
 
-- 📜 **Workshop Pipeline ETL Python – 1 Bilhão de Linhas** — Jornada de Dados (2025)
-- 🐳 **Docker para Engenheiro de Dados** — Jornada de Dados (2025)
-- 🌿 **Bootcamp Git e GitHub** — Jornada de Dados (2025)
-- 🤖 **Criando Agentes com Agno** — Asimov Academy (2025)
-- 🔗 **Agentes de IA com Python e n8n** — Jornada de Dados (2025)
-- 🌐 **APIs com Python + Streamlit** — Asimov Academy (2025)
-- 🧠 **Engenharia de Prompts** — Asimov Academy (2024)
-
----
-
-## 🌱 Aprofundando atualmente
-
-- Arquiteturas avançadas para Agentes de IA
-- Context Engineering & Model Context Protocol (MCP)
-- Engenharia de Dados Moderna (Lakehouse, Data Mesh)
-- Databricks & Spark em ambientes de produção
+- Arquiteturas para agentes de IA e Context Engineering
+- Model Context Protocol (MCP) e automação orientada por agentes
+- Engenharia de Dados moderna, Lakehouse e Data Mesh
+- Databricks, Spark e pipelines confiáveis em produção
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizqueirozsouza)
+[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizqueirozsouza)
 
----
-
-> *"Dados sem ação são apenas números. Dados com automação são vantagem competitiva."*
+> *Dados sem ação são apenas números. Dados com automação são vantagem competitiva.*
